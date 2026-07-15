@@ -1,0 +1,8 @@
+{
+  "web.loading": "Loading...",
+  "web.dismiss": "Dismiss",
+  "web.task_created": "{{type}} \"{{title}}\" created successfully! ({{id}})",
+  "web.task": "Task",
+  "web.draft": "Draft",
+  "cli.task_prefix_prompt": "Task prefix (default: task):"
+}

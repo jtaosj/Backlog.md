@@ -1,0 +1,8 @@
+{
+  "web.loading": "加载中...",
+  "web.dismiss": "关闭",
+  "web.task_created": "{{type}} \"{{title}}\" 创建成功！({{id}})",
+  "web.task": "任务",
+  "web.draft": "草稿",
+  "cli.task_prefix_prompt": "任务前缀（默认：task）："
+}
